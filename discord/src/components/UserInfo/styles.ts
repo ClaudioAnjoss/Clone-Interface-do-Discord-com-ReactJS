@@ -24,6 +24,12 @@ export const Avatar = styled.div`
   border-radius: 50%;
 
   background-color: var(--gray);
+  overflow: hidden;
+
+  > img {
+    width: 100%;
+    height: 100%;
+  }
 `;
 
 export const UserData = styled.div`

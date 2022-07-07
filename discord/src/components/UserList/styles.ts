@@ -86,8 +86,15 @@ export const Avatar = styled.div`
 
   background-color: var(--primary);
   border-radius: 50%;
+  overflow: hidden;
 
   &.bot {
     background-color: var(--mention-detail);
+  }
+
+  > img {
+    width: 100%;
+    height: 100%;
+    flex-shrink: 0;
   }
 `;
