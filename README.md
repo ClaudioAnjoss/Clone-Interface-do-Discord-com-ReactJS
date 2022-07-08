@@ -14,7 +14,7 @@
 
  ##
  
- <strong>Projeto de Demonstração</strong> 
+ <strong>Demonstração</strong> 
  <p>Aperte <strong>PLAY</strong> para visualizar o gif de demonstração do site ou acesse https://venerable-alpaca-4de2b0.netlify.app/.
 
 <p align="center">
